@@ -1,1 +1,2 @@
 hello its my first line code
+hello its second line code added for merge conflicts
